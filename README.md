@@ -1,5 +1,5 @@
 # CRUD LARAVEL INERTIA & REACT
-
+demo: https://inertia-react.ciptacode.dev/
 ## Apa itu Inertia.js ?
 Inertia.js merupakan adapter yang menghubungkan antara backend dan frontend tanpa perlu menggunakan Rest API.
 <br>
